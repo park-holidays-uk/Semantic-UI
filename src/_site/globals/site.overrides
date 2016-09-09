@@ -1,3 +1,9 @@
 /*******************************
          Site Overrides
 *******************************/
+@fontPath: "../fonts";
+
+@blue: #0c5595;
+@green: #54a51f;
+@lightBlue: #02a7eb;
+@purple: #642566;
